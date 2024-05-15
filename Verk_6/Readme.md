@@ -16,13 +16,13 @@ Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 - Gallað maze [hér](https://emilb05.github.io/FORR3FV05EU/Verk_6/galla%C3%B0_maze/index.html) Ég bætti við myndavél en þegar ég gerði það þá hvarf maze-ið.
 
-- venjulega maze-ið [hér](https://emilb05.github.io/FORR3FV05EU/Verk_6/Maze_sem_breytist/index.html). [Hér](https://johansatge.github.io/three-maze/) er uprunnanlega maze-ið.
+- venjulega maze-ið [hér](https://emilb05.github.io/FORR3FV05EU/Verk_6/Maze_sem_breytist/index.html). uprunnanlega maze-ið er [hér](https://johansatge.github.io/three-maze/).
 
-## Réttindi
+## Réttindi:
 
 This project is released under the [MIT License](LICENSE).
 
-## Heimildir
+## Heimildir:
 
 * [three.js](http://threejs.org/)
 * [tween.js](http://github.com/sole/tween.js)
@@ -30,5 +30,5 @@ This project is released under the [MIT License](LICENSE).
 * [glTF](https://www.khronos.org/gltf/)
 * [hand gestures](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer)
 
-## Útkoma
+## Útkoma:
 Láng mesti tíminn fór í að reyna að láta maze-ið virka með hand gestures en í hvert skipti sem einn virkaði þá virkaði hinn ekki, svo í seinasta tímanum gerði ég bolta 3D-ið til að sýna allt en það á bara að tengja það allt við maze-ið sem er frekar flókið.
