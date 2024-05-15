@@ -2,7 +2,7 @@
 {
 
     'use strict';
-    
+
     /**
      * Maze class
      * @param wrapper
@@ -199,24 +199,12 @@
 
         // Player
         this.player = new THREE.Object3D();
-        /*
         var head_mesh = new THREE.Mesh(new THREE.SphereGeometry(this.thickness / 2, 9, 9), this.materials.red);
         var body_mesh = new THREE.Mesh(new THREE.CylinderGeometry(this.thickness / 6, this.thickness / 2, this.thickness * 1.5, 12, 1), this.materials.red);
         this.player.add(head_mesh);
         this.player.add(body_mesh);
         head_mesh.position.y = this.thickness * 1.5;
         body_mesh.position.y = this.thickness;
-        */
-       //const loader = new GLTFLoader().path('./gltf/')
-        var self = this;
-        const gltfLoader = new THREE.GLTFLoader();
-        const url = './gltf/';
-        gltfLoader.load(url, (gltf) => {
-            const root = gltf.scene;
-            self.player = root;
-            self.scene.add(self.player);
-            self.render();
-        });
         this.scene.add(this.player);
 
         // End of the maze
@@ -413,4 +401,3 @@
     window.ThreeMaze = ThreeMaze;
 
 })(window);
-
