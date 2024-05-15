@@ -20,6 +20,12 @@ Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 ---
 
+### Myndband og Myndir:
+
+![]()
+
+---
+
 ### Réttindi:
 
 This project is released under the [MIT License](LICENSE).
