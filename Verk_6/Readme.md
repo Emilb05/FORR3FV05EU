@@ -24,9 +24,9 @@ Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 tengill að myndbandi [hér](https://youtu.be/KQkNNsR2ggY)
 
-- tengill að mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/3D_hlutir_og_handG) (myndin er í readme fileinu þarna)
-- tengill að mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/Maze_sem_breytist) (myndin er í readme fileinu þarna)
-- tengill að mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/galla%C3%B0_maze) (myndin er í readme fileinu þarna)
+- 3D bolta mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/3D_hlutir_og_handG) (myndin er í readme fileinu þarna)
+- maze mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/Maze_sem_breytist) (myndin er í readme fileinu þarna)
+- gallað maze mynd [hér](https://github.com/Emilb05/FORR3FV05EU/tree/main/Verk_6/galla%C3%B0_maze) (myndin er í readme fileinu þarna)
 
 ---
 
