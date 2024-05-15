@@ -29,3 +29,6 @@ This project is released under the [MIT License](LICENSE).
 * [Roguebasin](http://www.roguebasin.com/index.php?title=Simple_maze#Maze_Generator_in_Javascript) (maze generation)
 * [glTF](https://www.khronos.org/gltf/)
 * [hand gestures](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer)
+
+## Útkoma
+Láng mesti tíminn fór í að reyna að láta maze-ið virka með hand gestures en í hvert skipti sem einn virkaði þá virkaði hinn ekki, svo í seinasta tímanum gerði ég bolta 3D-ið til að sýna allt en það á bara að tengja það allt við maze-ið sem er frekar flókið.
