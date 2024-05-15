@@ -18,4 +18,14 @@ Skanna 3D hlut og nota hendur til að hreyfa hann í gegnum völundarhús.
 
 - venjulega maze-ið [hér](https://emilb05.github.io/FORR3FV05EU/Verk_6/Maze_sem_breytist/index.html) reyndar er það ekki að virka núna út af einhverri ástæðu svo [hér](https://johansatge.github.io/three-maze/) er uprunnanlega maze-ið.
 
-## A
+## Réttindi
+
+This project is released under the [MIT License](LICENSE).
+
+## Heimildir
+
+* [three.js](http://threejs.org/)
+* [tween.js](http://github.com/sole/tween.js)
+* [Roguebasin](http://www.roguebasin.com/index.php?title=Simple_maze#Maze_Generator_in_Javascript) (maze generation)
+* [glTF](https://www.khronos.org/gltf/)
+* [hand gestures](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer)
